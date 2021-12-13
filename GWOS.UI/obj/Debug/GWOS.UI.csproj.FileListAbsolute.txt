@@ -1,0 +1,42 @@
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\bin\Debug\GWOS.UI.exe.config
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\bin\Debug\GWOS.UI.exe
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\bin\Debug\GWOS.UI.pdb
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\GWOS.UI.csprojAssemblyReference.cache
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\App.g.cs
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\GWOS.UI_MarkupCompile.cache
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\GWOS.UI_MarkupCompile.lref
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\MainWindow.baml
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\GWOS.UI.g.resources
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\GWOS.UI.Properties.Resources.resources
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\GWOS.UI.csproj.GenerateResource.cache
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\GWOS.UI.csproj.CoreCompileInputs.cache
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\GWOS.UI.exe
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\GWOS.UI.pdb
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\CreateOrder.g.cs
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\CreateOrder.baml
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\CreateItemOrder.g.cs
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\CreateItemOrder.baml
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\Order999999.g.cs
+C:\Users\Jasper Petit\RiderProjects\GWOS\GWOS.UI\obj\Debug\Order999999.baml
+C:\Development\GWOS-TP\GWOS\GWOS.UI\bin\Debug\GWOS.UI.exe.config
+C:\Development\GWOS-TP\GWOS\GWOS.UI\bin\Debug\GWOS.UI.exe
+C:\Development\GWOS-TP\GWOS\GWOS.UI\bin\Debug\GWOS.UI.pdb
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\GWOS.UI.csprojAssemblyReference.cache
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\CreateItemOrder.g.cs
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\CreateOrder.g.cs
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\MainWindow.g.cs
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\Order999999.g.cs
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\App.g.cs
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\GWOS.UI_MarkupCompile.cache
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\GWOS.UI_MarkupCompile.lref
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\CreateItemOrder.baml
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\CreateOrder.baml
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\MainWindow.baml
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\Order999999.baml
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\GWOS.UI.g.resources
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\GWOS.UI.Properties.Resources.resources
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\GWOS.UI.csproj.GenerateResource.cache
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\GWOS.UI.csproj.CoreCompileInputs.cache
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\GWOS.UI.exe
+C:\Development\GWOS-TP\GWOS\GWOS.UI\obj\Debug\GWOS.UI.pdb
